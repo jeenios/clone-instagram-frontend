@@ -23,10 +23,10 @@ samples, guidance on mobile development, and a full API reference.
 <section id="screenshoot">
 	
 ## Screenshoot
-<div class="demo">
+<div class="ozzy">
     <div class="items">
-    	<h4 class="title-demo">Instagram UI</h4>
-		<img class="img-demo" src="https://user-images.githubusercontent.com/103307109/162926482-251c5f0b-fd2f-463b-aed4-daf8a3ea6471.png">  
+    	<h4 class="title-ozzy">Instagram UI</h4>
+		<img class="img-ozzy" src="https://user-images.githubusercontent.com/103307109/162926482-251c5f0b-fd2f-463b-aed4-daf8a3ea6471.png">  
     </div>
     
 </div>
